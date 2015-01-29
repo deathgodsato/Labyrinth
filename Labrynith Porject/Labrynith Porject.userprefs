@@ -1,12 +1,15 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\UIManagerScriptJS.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\LoadNextLevel.js">
     <Files>
-      <File FileName="Assets\scripts\UIManagerScriptJS.js" Line="26" Column="16" />
+      <File FileName="Assets\scripts\LoadNextLevel.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\UIManagerScriptJS.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\deathgodsato\Desktop\Labrynith Porject\Assets\scripts\LoadNextLevel.js" line="18" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

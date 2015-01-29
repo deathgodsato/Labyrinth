@@ -69,6 +69,7 @@
      <Compile Include="Assets\default asseets\Standard Assets\Scripts\Camera Scripts\SmoothLookAt.js" />
      <Compile Include="Assets\default asseets\Standard Assets\Scripts\General Scripts\DragRigidbody.js" />
      <Compile Include="Assets\from the store\Necromancer GUI\GUITestScript.js" />
+     <Compile Include="Assets\scripts\LoadNextLevel.js" />
      <Compile Include="Assets\scripts\UIManagerScriptJS.js" />
      <None Include="Assets\default asseets\Standard Assets\Projectors\Guidelines.txt" />
      <None Include="Assets\from the store\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_eye.shader" />

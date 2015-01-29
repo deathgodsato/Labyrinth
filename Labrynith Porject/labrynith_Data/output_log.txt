@@ -14,20 +14,21 @@ Platform assembly: C:\Users\deathgodsato\Desktop\Labrynith Porject\labrynith_Dat
 Loading C:\Users\deathgodsato\Desktop\Labrynith Porject\labrynith_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
 Platform assembly: C:\Users\deathgodsato\Desktop\Labrynith Porject\labrynith_Data\Managed\UnityEngine.UI.dll (this message is harmless)
 Loading C:\Users\deathgodsato\Desktop\Labrynith Porject\labrynith_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.080 seconds
+- Completed reload, in  0.072 seconds
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 Platform assembly: C:\Users\deathgodsato\Desktop\Labrynith Porject\labrynith_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\deathgodsato\Desktop\Labrynith Porject\labrynith_Data\Managed\System.dll (this message is harmless)
-WARNING: Shader Unsupported: 'ZGON : Bumped Detail Spec 01' - Pass 'FORWARD' shader state not supported
-WARNING: Shader Unsupported: 'ZGON : Bumped Detail Spec 01' - Pass 'FORWARD' shader state not supported
-WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
-UnloadTime: 3.976311 ms
+UnloadTime: 2.518448 ms
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 236.
-Total: 1.078539 ms (FindLiveObjects: 0.016250 ms CreateObjectMapping: 0.010263 ms MarkObjects: 0.119742 ms  DeleteObjects: 0.504202 ms)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 183.
+Total: 0.564074 ms (FindLiveObjects: 0.009408 ms CreateObjectMapping: 0.005987 ms MarkObjects: 0.130434 ms  DeleteObjects: 0.007697 ms)
 
-Platform assembly: C:\Users\deathgodsato\Desktop\Labrynith Porject\labrynith_Data\Managed\Boo.Lang.dll (this message is harmless)
-WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+UnloadTime: 0.461437 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 213.
+Total: 0.451173 ms (FindLiveObjects: 0.006842 ms CreateObjectMapping: 0.006414 ms MarkObjects: 0.118887 ms  DeleteObjects: 0.002138 ms)
+
